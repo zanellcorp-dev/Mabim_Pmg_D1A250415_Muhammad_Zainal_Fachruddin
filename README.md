@@ -20,6 +20,16 @@ Sistem login admin sederhana dengan fitur:
 - **Password:** `12345`
 - **Keamanan Dasar:** menggunakan `htmlspecialchars()` bwt mencegah serangan XSS sederhana.
 
-
 ---
 > &copy; 2026 Muhammad Zainal Fachruddin. NPM: D1A250415
+# Tugas High-Fidelity Design - Social Media App
+
+* **Nama:** Muhammad Zainal Fachruddin
+* **NPM:** D1A250415
+* **Tema:** Social Media App (NPM Ganjil)
+
+## Deskripsi Proyek
+Desain ini terdiri dari 3 frame utama: Splash Screen, Home Feed, dan Profile yang dibuat menggunakan Figma.
+
+## Link Figma
+https://www.figma.com/design/7hNmk4rXrT0l3yj7Mu3BsD/Untitled?node-id=0-1&t=bwCxIzx14B4FdfVh-1
