@@ -1,6 +1,6 @@
 # Tugas Portal Admin - MABIM PMG
 **Nama:** Muhammad Zainal Fachruddin
-**ID:** D1A250415
+**NPM:** D1A250415
 
 ### Deskripsi:
 Sistem login admin sederhana dengan fitur:
